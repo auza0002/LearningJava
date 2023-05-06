@@ -1,2 +1,12 @@
 # Learning Java from
-This java file contains some Java challenges like **Positive, Negative, Zero**
+##Positive, Negative, Zero
+**Positive, Negative or Zero
+Write a method called checkNumber with an int parameter number.
+
+The method should not return any value, and it needs to print out:
+
+"positive" if the parameter number is > 0
+
+"negative" if the parameter number is < 0
+
+"zero" if the parameter number is equal to 0**
