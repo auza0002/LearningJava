@@ -1,5 +1,8 @@
 # Learning Java from
-##Positive, Negative, Zero
+
+## Challenges List 
+
+1. **Positive, Negative, Zero**
 
 Write a method called checkNumber with an int parameter number.
 The method should not return any value, and it needs to print out:
