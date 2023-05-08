@@ -32,6 +32,23 @@
       **How to use the method round and how it works?**
       <br>
       The Math.round() is a built-in math method which returns the closest long to the argument.<br> The result is rounded to an integer by adding 1/2,       taking the floor of the result after adding 1/2,<br>and typecasting the result to type long. The method returns the value of the argument rounded       to<br> the nearest int value.<br>
+3. ### **Speed Converter**<br>
+**Description:** <br>
+<br>
+         
+      We have a dog that likes to bark.  We need to wake up if the dog is barking at night!<br>
+      Write a method shouldWakeUp that has 2 parameters.<br>
+      1st parameter should be of type boolean and be named barking it represents if our dog is currently barking.<br>
+      2nd parameter represents the hour of the day and is of type int with the name hourOfDay and has a valid range of 0-23.<br>
+      We have to wake up if the dog is barking before 8 or after 22 hours so in that case return true.<br>
+      In all other cases return false.<br>
+      If the hourOfDay parameter is less than 0 or greater than 23 return false.<br>
+      Examples of input/output:<br>
+      shouldWakeUp (true, 1); → should return true<br>
+      shouldWakeUp (false, 2); → should return false since the dog is not barking.<br>
+      shouldWakeUp (true, 8); → should return false, since it's not before 8.<br>
+      shouldWakeUp (true, -1); → should return false since the hourOfDay parameter needs to be in a range 0-23.<br>
+     
 
       
       
