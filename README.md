@@ -35,7 +35,6 @@
 3. ### **Speed Converter**<br>
 **Description:** <br>
 <br>
-         
       We have a dog that likes to bark.  We need to wake up if the dog is barking at night!<br>
       Write a method shouldWakeUp that has 2 parameters.<br>
       1st parameter should be of type boolean and be named barking it represents if our dog is currently barking.<br>
