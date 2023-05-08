@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaChallenges/BarkingDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaChallenges/MegaByteConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaChallenges/SpeedConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaChallenges/SpeedConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaChallenges/LeapYearCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaChallenges/BarkingDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaChallenges/BarkingDog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +115,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/JavaChallenges/BarkingDog.java</url>
-          <line>33</line>
+          <line>8</line>
           <properties class="JavaChallenges.BarkingDog" method="shouldWakeUp">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -126,17 +124,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/JavaChallenges/BarkingDog.java</url>
-          <line>35</line>
+          <line>10</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/JavaChallenges/BarkingDog.java</url>
-          <line>37</line>
+          <line>12</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/JavaChallenges/BarkingDog.java</url>
-          <line>40</line>
+          <line>15</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
