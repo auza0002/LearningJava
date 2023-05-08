@@ -4,7 +4,7 @@ public class SpeedConverter {
     public static void main(String[] args) {
         printConversion(1.5);
         printConversion(-10);
-        printConversion(0);
+        printConversion(0.0000);
         printConversion(400.45);
         printConversion(75.677);
     }
