@@ -48,7 +48,23 @@
       shouldWakeUp (false, 2); → should return false since the dog is not barking.<br>
       shouldWakeUp (true, 8); → should return false, since it's not before 8.<br>
       shouldWakeUp (true, -1); → should return false since the hourOfDay parameter needs to be in a range 0-23.<br>
-     
+      
+4. ### **Leap Year**<br>
+**Description:** <br>
+<br>
+      Write a method isLeapYear with a parameter of type int named year.<br>
+      The parameter needs to be greater than or equal to 1 and less than or equal to 9999.<br>
+      If the parameter is not in that range return false.<br>
+      Otherwise, if it is in the valid range, calculate if the year is a leap year and return <br>
+      true if it is a leap year, otherwise return false.<br>
+      To determine whether a year is a leap year, follow these steps: <br>
+      1. If the year is evenly divisible by 4, go to step 2. Otherwise, go to step 5.<br>
+      2. If the year is evenly divisible by 100, go to step 3. Otherwise, go to step 4.<br>
+      3. If the year is evenly divisible by 400, go to step 4. Otherwise, go to step 5.<br>
+      4. The year is a leap year (it has 366 days). The method isLeapYear needs to return true.<br>
+      5. The year is not a leap year (it has 365 days). The method isLeapYear needs to return false.<br>
+      
+  
 
       
       
