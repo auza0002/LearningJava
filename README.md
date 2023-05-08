@@ -48,7 +48,7 @@
       shouldWakeUp (false, 2); → should return false since the dog is not barking.<br>
       shouldWakeUp (true, 8); → should return false, since it's not before 8.<br>
       shouldWakeUp (true, -1); → should return false since the hourOfDay parameter needs to be in a range 0-23.<br>
-3. ### **Leap Year**<br>
+4. ### **Leap Year**<br>
 **Description:** <br>
 <br>
       Write a method isLeapYear with a parameter of type int named year.<br>
