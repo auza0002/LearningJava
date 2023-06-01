@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="" />
+    <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JavaChallenges/areaChallange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaChallenges/areaChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.secondsChallenge">
+  <component name="RunManager" selected="Application.areaChallenge">
     <configuration name="InchesToCentimeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaChallenges.InchesToCentimeters" />
       <module name="LearningJava" />
@@ -66,8 +70,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeenNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaChallenges.TeenNumberChecker" />
+    <configuration name="areaChallange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaChallenges.areaChallange" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaChallenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="areaChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaChallenges.areaChallenge" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -92,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="totalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaChallenges.totalSum" />
-      <module name="LearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaChallenges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.areaChallenge" />
+        <item itemvalue="Application.areaChallange" />
         <item itemvalue="Application.secondsChallenge" />
         <item itemvalue="Application.InchesToCentimeters" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TeenNumberChecker" />
-        <item itemvalue="Application.totalSum" />
       </list>
     </recent_temporary>
   </component>
