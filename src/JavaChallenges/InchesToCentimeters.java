@@ -2,8 +2,8 @@ package JavaChallenges;
 
 public class InchesToCentimeters {
     public static void main(String[] args) {
-    convertToCentimeters(30);
-    converToCentimeters(6 , 0);
+    convertToCentimeters(68);
+    convertToCentimeters(5 , 8);
     }
     public static double convertToCentimeters(int height){
 
@@ -13,7 +13,7 @@ public class InchesToCentimeters {
 
     }
 
-    public static double converToCentimeters(int heightFeet, int heightInches){
+    public static double convertToCentimeters(int heightFeet, int heightInches){
             int totalFeetInInches = heightFeet * 12;
             int totalInches = (totalFeetInInches + heightInches);
             double totalInchesIntoCentimeters =  convertToCentimeters(totalInches);
