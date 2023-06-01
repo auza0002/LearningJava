@@ -2,6 +2,8 @@
 
 ## Challenges List 
 
+### Here you you can find some examples of the challanges I approached during this Learning process 
+
 1. ### Positive, Negative, Zero<br>
   **Description:** <br>
   <br>
