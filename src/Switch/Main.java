@@ -11,8 +11,10 @@ public class Main {
         }
         String month = "APRIL";
         String month2 = "OCTOBER";
+        String month3 = "XYZ";
         System.out.println(month + " is in the " + getQuarter(month) + " quarters");
-        System.out.println(month + " is in the " + getQuarter(month2) + " quarters");
+        System.out.println(month2 + " is in the " + getQuarter(month2) + " quarters");
+        System.out.println(month3 + " is in the " + getQuarter(month3) + " quarters");
     }
 
     public static String getQuarter( String month ){
@@ -21,7 +23,10 @@ public class Main {
             case "APRIL", "MAY", "JUNE" -> "2nd";
             case "JULY", "AUGUST", "SEPTEMBER" -> "3rd";
             case "OCTOBER", "NOVEMBER", "DECEMBER" -> "4th";
-            default -> "bad";
+            default -> {
+                String badResponse = "'input value Error, month must be provided'";
+                yield badResponse ;
+            }
         };
     }
 }
