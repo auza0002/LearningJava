@@ -31,7 +31,6 @@ public class DayOfTheWeek {
             dayOfTheWeek = "MONDAY";
         } else if(day == 2){
             dayOfTheWeek = "TUESDAY";
-
         }else if(day == 3){
             dayOfTheWeek = "WEDNESDAY";
         } else if(day == 4){
