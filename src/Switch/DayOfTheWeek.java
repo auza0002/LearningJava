@@ -2,35 +2,47 @@ package Switch;
 
 public class DayOfTheWeek {
     public static void main(String[] args) {
-        String dayOfTheWeek0 = printDayOfTheWeek(0);
-        String dayOfTheWeek1 = printDayOfTheWeek(1);
-        String dayOfTheWeek2 = printDayOfTheWeek(2);
-        String dayOfTheWeek3 = printDayOfTheWeek(3);
-        String dayOfTheWeek4 = printDayOfTheWeek(4);
-        String dayOfTheWeek5 = printDayOfTheWeek(5);
-        String dayOfTheWeek6 = printDayOfTheWeek(6);
-        String dayOfTheWeek7 = printDayOfTheWeek(7);
+        printDayOfTheWeek(0);
+        printDayOfTheWeek(9);
+        printWeekDay(0);
+        printWeekDay(9);
     }
-    public static String printDayOfTheWeek(int day){
-        switch (day) {
-            case 0 -> System.out.println("input value " + day + " = "+ " SUNDAY");
-            case 1 -> System.out.println("input value " + day + " = "+ " MONDAY");
-            case 2 -> System.out.println("input value " + day + " = "+ " TUESDAY");
-            case 3 -> System.out.println("input value " + day + " = "+ " WEDNESDAY");
-            case 4 -> System.out.println("input value " + day + " = "+ " THURSDAY");
-            case 5 -> System.out.println("input value " + day + " = "+ " FRIDAY");
-            case 6 -> System.out.println("input value " + day + " = "+ " SATURDAY");
+    public static void printDayOfTheWeek(int day){
+       String dayOfTheWeek =  switch (day) {
+            case 0 -> { yield  "SUNDAY";}
+            case 1 -> { yield  "MONDAY";}
+            case 2 -> { yield  "TUESDAY";}
+            case 3 -> { yield  "WEDNESDAY";}
+            case 4 -> { yield  "THURSDAY";}
+            case 5 -> { yield  "FRIDAY";}
+            case 6 -> { yield  "SATURDAY";}
             default -> {
-                System.out.println(day +  " is an invalid input value" + "Unknown day");
+                yield "invalid input day";
             }
-        }
+        };
+        System.out.println(day + " instance for " + dayOfTheWeek);
 
-        return null;
     }
-    public static String printWeekDay(int day ){
+    public static void printWeekDay(int day ){
+        String dayOfTheWeek = "invalid input day";
         if(day == 0){
-            System.out.println();
+           dayOfTheWeek = "SUNDAY";
+        }else if(day == 1){
+            dayOfTheWeek = "MONDAY";
+        } else if(day == 2){
+            dayOfTheWeek = "TUESDAY";
+
+        }else if(day == 3){
+            dayOfTheWeek = "WEDNESDAY";
+        } else if(day == 4){
+            dayOfTheWeek = "THURSDAY";
+        } else if(day == 5){
+            dayOfTheWeek = "FRIDAY";
+        } else if( day == 6){
+            dayOfTheWeek = "SATURDAY";
+        } else {
+            dayOfTheWeek = "invalid input day";
         }
-       return null;
+        System.out.println(day + " instance for " + dayOfTheWeek);
     }
 }
