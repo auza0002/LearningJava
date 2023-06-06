@@ -27,4 +27,10 @@ public class DayOfTheWeek {
 
         return null;
     }
+    public static String printWeekDay(int day ){
+        if(day == 0){
+            System.out.println();
+        }
+       return null;
+    }
 }
