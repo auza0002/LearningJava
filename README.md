@@ -65,7 +65,8 @@
       3. If the year is evenly divisible by 400, go to step 4. Otherwise, go to step 5.<br>
       4. The year is a leap year (it has 366 days). The method isLeapYear needs to return true.<br>
       5. The year is not a leap year (it has 365 days). The method isLeapYear needs to return false.<br>
- 5. ### **Decimal Comparator**<br>
+      
+5. ### **Decimal Comparator**<br>
 **Description:** <br>
 <br>
      Write a method areEqualByThreeDecimalPlaces with two parameters of type double.
