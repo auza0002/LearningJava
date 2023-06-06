@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="" />
+    <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Switch/NumberOfDaysInMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberInWord">
+  <component name="RunManager" selected="Application.NumberOfDaysInMonth">
     <configuration name="DayOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Switch.DayOfTheWeek" />
       <module name="LearningJava" />
@@ -66,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switch.Main" />
+    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaChallenges.NumberInWord" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Switch.*" />
+          <option name="PATTERN" value="JavaChallenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaChallenges.NumberInWord" />
+    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Switch.NumberOfDaysInMonth" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaChallenges.*" />
+          <option name="PATTERN" value="Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfDaysInMonth" />
         <item itemvalue="Application.NumberInWord" />
         <item itemvalue="Application.DayOfTheWeek" />
         <item itemvalue="Application.DecimalComparator" />
         <item itemvalue="Application.SwitchChallenge" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
