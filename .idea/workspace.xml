@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Switch/SwitchChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch/DayOfTheWeek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaChallenges/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaChallenges/DecimalComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Switch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +42,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DecimalComparator">
-    <configuration name="DecimalComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaChallenges.DecimalComparator" />
+  <component name="RunManager" selected="Application.DayOfTheWeek">
+    <configuration name="DayOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Switch.DayOfTheWeek" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaChallenges.*" />
+          <option name="PATTERN" value="Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowGood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaChallenges.HowGood" />
+    <configuration name="DecimalComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaChallenges.DecimalComparator" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayOfTheWeek" />
         <item itemvalue="Application.DecimalComparator" />
         <item itemvalue="Application.SwitchChallenge" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.valueDoubled" />
-        <item itemvalue="Application.HowGood" />
       </list>
     </recent_temporary>
   </component>
