@@ -72,6 +72,17 @@
      Write a method areEqualByThreeDecimalPlaces with two parameters of type double.
      The method should return boolean and it needs to return true if two double numbers 
      are the same up to three decimal places. Otherwise, return false
+     
+6. ### **Teen Number Checker**<br>
+**Description:** <br>
+<br>
+     Write a method named hasTeen with 3 parameters of type int.<br>
+     The method should return boolean and it needs to return true if one of the<br>
+     parameters is in range 13(inclusive) - 19 (inclusive). Otherwise return false.<br>
+     Write another method named isTeen with 1 parameter of type int.<br>
+     <br>
+     The method should return boolean and it needs to return true if the parameter is <br>
+     in range 13(inclusive) - 19 (inclusive). Otherwise return false.<br>
   
 
       
