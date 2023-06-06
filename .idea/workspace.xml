@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaChallenges/HowGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaChallenges/valueDoubled.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HowGood">
+  <component name="RunManager" selected="Application.valueDoubled">
     <configuration name="HowGood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaChallenges.HowGood" />
       <module name="LearningJava" />
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="playingCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaChallenges.playingCat" />
+    <configuration name="valueDoubled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaChallenges.valueDoubled" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.valueDoubled" />
         <item itemvalue="Application.HowGood" />
         <item itemvalue="Application.MakeNegative" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.playingCat" />
       </list>
     </recent_temporary>
   </component>
