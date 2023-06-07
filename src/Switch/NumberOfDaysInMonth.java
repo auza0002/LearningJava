@@ -5,6 +5,7 @@ public class NumberOfDaysInMonth {
     public static void main(String[] args) {
         System.out.println(getDaysInMoth(1,2020));
         System.out.println(getDaysInMoth(2,2020));
+        System.out.println(getDaysInMoth(3,2021));
         System.out.println(getDaysInMoth(2,2018));
         System.out.println(getDaysInMoth(2,-2018));
         System.out.println(getDaysInMoth(-2,2018));
