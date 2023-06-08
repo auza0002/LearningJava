@@ -10,7 +10,6 @@ public class ThePrimeNumberChallenge {
         int counterNumber = 0;
             if(numberEnd <= 1000 && numberStart >= 1){
                 for (int i = numberStart; i <= numberEnd; i++){
-
                        if(isPrime(i)){
                            counterNumber ++;
                            System.out.println("a prime number was found : " + i + " , the counter is " + counterNumber);
@@ -19,7 +18,6 @@ public class ThePrimeNumberChallenge {
                                break;
                            }
                        }
-
                 }
             } else {
                 System.out.println("The Numbers must be between 1 and 1000, try with another range of numbers" + ", " + numberStart + " and " + numberEnd);
