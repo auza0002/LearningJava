@@ -2,15 +2,33 @@ package Loop;
 
 public class ThePrimeNumberChallenge {
     public static void main(String[] args) {
-        System.out.println("0 is " + (isPrime(0)? "" : "NOT") + " a prime number");
-        System.out.println("1 is " + (isPrime(1)? "" : "NOT") + " a prime number");
-        System.out.println("2 is " + (isPrime(2)? "" : "NOT") + " a prime number");
-        System.out.println("3 is " + (isPrime(3)? "" : "NOT") + " a prime number");
-        System.out.println("8 is " + (isPrime(8)? "" : "NOT") + " a prime number");
-        System.out.println("17 is " + (isPrime(17)? "" : "NOT") + " a prime number");
-    }
-    public static boolean isPrime(int wholeNumber){
+//
+        checkRangePrimeNumber(10, 50);
 
+    }
+    public static int checkRangePrimeNumber(int numberStart, int numberEnd){
+        int counterNumber = 0;
+            if(numberEnd <= 1000 && numberStart >= 1){
+                for (int i = numberStart; i <= numberEnd; i++){
+
+                       if(isPrime(i)){
+                           counterNumber ++;
+                           System.out.println("a prime number was found : " + i + " , the counter is " + counterNumber);
+                           if(counterNumber == 3){
+                               System.out.println("Found the  maximum number of prime numbers :" + counterNumber);
+                               break;
+                           }
+                       }
+
+                }
+            } else {
+                System.out.println("The Numbers must be between 1 and 1000, try with another range of numbers" + ", " + numberStart + " and " + numberEnd);
+            }
+        return counterNumber;
+    }
+
+
+    public static boolean isPrime(int wholeNumber){
         if (wholeNumber <= 2) {
             return (wholeNumber == 2);
         }
