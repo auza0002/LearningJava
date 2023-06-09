@@ -1,5 +1,6 @@
 package Loop;
 
+
 public class DigitSumChallenge {
     public static void main(String[] args) {
         System.out.println("The sum of the digits in numbers 1234 is " + sumDigits(1234));
