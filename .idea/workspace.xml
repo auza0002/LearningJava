@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loop/DigitSumChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaChallenges/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaChallenges/NumberPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DigitSumChallenge">
+  <component name="RunManager" selected="Application.NumberPalindrome">
     <configuration name="DigitSumChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop.DigitSumChallenge" />
       <module name="LearningJava" />
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum3And5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.Sum3And5Challenge" />
+    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaChallenges.NumberPalindrome" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loop.*" />
+          <option name="PATTERN" value="JavaChallenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberPalindrome" />
         <item itemvalue="Application.DigitSumChallenge" />
         <item itemvalue="Application.TheWhileLoopChallenge" />
         <item itemvalue="Application.WhileAndDoLoop" />
         <item itemvalue="Application.SumOddNumbersLoop" />
-        <item itemvalue="Application.Sum3And5Challenge" />
       </list>
     </recent_temporary>
   </component>
