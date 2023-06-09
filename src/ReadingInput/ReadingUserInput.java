@@ -31,4 +31,13 @@ public class ReadingUserInput {
 
         return " So you are " + age + " years old";
     }
+    public static int checkData( int currentYear, String dataOfBirth){
+        int dob = Integer.parseInt(dataOfBirth);
+        int minimumYear = currentYear - 125;
+
+        if((dob < minimumYear) || (dob > currentYear)){
+            return -1;
+        }
+        return (currentYear -dob);
+    }
 }
