@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Loop/TheWhileLoopChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Loop/WhileAndDoLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop/WhileAndDoLoop.java" afterDir="false" />
     </list>
@@ -42,20 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WhileAndDoLoop">
-    <configuration name="ForLoopChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.ForLoopChallenge" />
-      <module name="LearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TheWhileLoopChallenge">
     <configuration name="Sum3And5Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop.Sum3And5Challenge" />
       <module name="LearningJava" />
@@ -95,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TheWhileLoopChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.TheWhileLoopChallenge" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhileAndDoLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop.WhileAndDoLoop" />
       <module name="LearningJava" />
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheWhileLoopChallenge" />
         <item itemvalue="Application.WhileAndDoLoop" />
         <item itemvalue="Application.SumOddNumbersLoop" />
         <item itemvalue="Application.Sum3And5Challenge" />
         <item itemvalue="Application.ThePrimeNumberChallenge" />
-        <item itemvalue="Application.ForLoopChallenge" />
       </list>
     </recent_temporary>
   </component>
