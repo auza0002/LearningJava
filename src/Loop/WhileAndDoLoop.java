@@ -6,8 +6,14 @@ public class WhileAndDoLoop {
             System.out.println(i);
         }
         int j = 1;
-        while(j <=5){
+        boolean isReady = false ;
+        do{
+            if( j > 5){
+                break;
+            }
             System.out.println(" this the the while loop " + j );
-        }
+            j++;
+            isReady = ( j > 0);
+        } while(isReady);
     }
 }
