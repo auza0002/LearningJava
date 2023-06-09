@@ -2,21 +2,31 @@ package Loop;
 
 public class TheWhileLoopChallenge {
     public static void main(String[] args) {
-            int numberRangesStart = 5;
-            int numberRangesEnd = 20;
+        int counter = 0;
+        int totalEvenNumbers = 0;
+        int totalOddNumbers = 0;
+        int numberRangesStart = 5;
+        int numberRangesEnd = 39;
+
             while(numberRangesStart <= numberRangesEnd){
-                if(isEvenNumber(numberRangesStart)){
-                    System.out.println(numberRangesStart);
-                }
-                numberRangesStart++;
+               if(counter >= 5 ){
+                   break;
+               }
+               if(isEvenNumber(numberRangesStart)){
+                   counter++;
+                   totalEvenNumbers ++;
+                   System.out.println(" Even number found,  number found : " + numberRangesStart);
+
+               } else {
+                   totalOddNumbers ++;
+               }
+               numberRangesStart ++;
             }
+        System.out.println(" total even numbers: " + totalEvenNumbers);
+        System.out.println(" total odd numbers: " + totalOddNumbers);
     }
     public static boolean isEvenNumber(int number){
         boolean response = false;
-        // its purpose is to determine if the argument passed to the method is an even number or not.
-        // return true from the method, if it is an even number, otherwise return false.
-        // Next, use a while loop to test a range of numbers, from 5, up to 20 and including 20, but printing out
-        //only the even numbers, determined by the call to the isEvenNumber method.
         if(number % 2 == 0){
             response = true;
         }
