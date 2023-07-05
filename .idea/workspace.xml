@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReadingInput/ReadingInputChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReadingInput/ReadingUserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadingInput/ReadingUserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadingInput/ReadingInputChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadingInput/ReadingInputChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     "last_opened_file_path": "/Users/diegoauza/Documents/Code/Personal/LearningJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FlourPackProblem">
+  <component name="RunManager" selected="Application.ReadingInputChallenge">
     <configuration name="DigitSumChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop.DigitSumChallenge" />
       <module name="LearningJava" />
@@ -86,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReadingInputChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadingInput.ReadingInputChallenge" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReadingInput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReadingUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReadingInput.ReadingUserInput" />
       <module name="LearningJava" />
@@ -99,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheWhileLoopChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop.TheWhileLoopChallenge" />
-      <module name="LearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadingInputChallenge" />
         <item itemvalue="Application.FlourPackProblem" />
         <item itemvalue="Application.ReadingUserInput" />
         <item itemvalue="Application.NumberPalindrome" />
         <item itemvalue="Application.DigitSumChallenge" />
-        <item itemvalue="Application.TheWhileLoopChallenge" />
       </list>
     </recent_temporary>
   </component>
