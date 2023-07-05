@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaChallenges/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/diegoauza/Documents/Code/Personal/LearningJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BankAccount.Main">
+  <component name="RunManager" selected="Application.SimpleCalculator.Main">
     <configuration name="BankAccount.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankAccount.Main" />
       <module name="LearningJava" />
@@ -100,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadingUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReadingInput.ReadingUserInput" />
+    <configuration name="SimpleCalculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculator.Main" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReadingInput.*" />
+          <option name="PATTERN" value="SimpleCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleCalculator.Main" />
         <item itemvalue="Application.BankAccount.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ReadingInputChallenge" />
         <item itemvalue="Application.FlourPackProblem" />
-        <item itemvalue="Application.ReadingUserInput" />
       </list>
     </recent_temporary>
   </component>
