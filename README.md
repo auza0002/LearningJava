@@ -84,6 +84,19 @@ Diego Luis Auza Trujillo
      <br>
      The method should return boolean and it needs to return true if the parameter is <br>
      in range 13(inclusive) - 19 (inclusive). Otherwise return false.<br>
+7. ### **Teen Number Checker**<br>
+**Description:** <br>
+   <br>
+    Write a class with the name Person. The class needs three fields (instance variables) with
+    <br>the names firstName, lastName of type String and age of type int<br>
+    1. Method named getFirstName without any parameters, it needs to return the value of the firstName field.<br>
+    2. Method named getLastName without any parameters, it needs to return the value of the lastName field.<br>
+    3. Method named getAge without any parameters, it needs to return the value of the age field.<br>
+    4. Method named setFirstName with one parameter of type String, it needs to set the value of the firstName field.<br>
+    5. Method named setLastName with one parameter of type String, it needs to set the value of the lastName field.
+    6. Method named setAge with one parameter of type int, it needs to set the value of the age field. If the parameter<br> is less than 0 or greater than 100, it needs to set the age field value to 0.<br>
+    7. Method named isTeen without any parameters, it needs to return true if the value of the age field is greater than<br> 12 and less than 20, otherwise, return false.<br>
+    8. Method named getFullName without any parameters, it needs to return the full name of the person.<br>
   
 
       
