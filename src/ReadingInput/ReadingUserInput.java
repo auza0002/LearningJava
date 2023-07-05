@@ -11,6 +11,7 @@ public class ReadingUserInput {
        }
 
     }
+
     public static String getInputFromConsole(int currentYear){
         String name = System.console().readLine(" Hi, What is your name?");
         System.out.println(" Hi " + name + ", This is muy first input from Console.");
