@@ -4,6 +4,8 @@ public class Main {
     // main class
     // user edited
     //
+    // git code
+
     public static void main(String[] args) {
         Person person = new Person();
         person.setFirstName("");   // firstName is set to empty string
