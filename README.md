@@ -85,6 +85,7 @@ Diego Luis Auza Trujillo
      The method should return boolean and it needs to return true if the parameter is <br>
      in range 13(inclusive) - 19 (inclusive). Otherwise return false.<br>
 7. ### **Teen Number Checker**<br>
+8. ### **Teen Number Checker**<br>
 **Description:** <br>
    <br>
     Write a class with the name Person. The class needs three fields (instance variables) with
