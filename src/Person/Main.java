@@ -1,6 +1,7 @@
 package Person;
 
 public class Main {
+    // main class
     public static void main(String[] args) {
         Person person = new Person();
         person.setFirstName("");   // firstName is set to empty string
