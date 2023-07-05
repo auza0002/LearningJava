@@ -84,6 +84,7 @@ Diego Luis Auza Trujillo
      <br>
      The method should return boolean and it needs to return true if the parameter is <br>
      in range 13(inclusive) - 19 (inclusive). Otherwise return false.<br>
+     <br>
 7. ### **Teen Number Checker**<br>
 **Description:** <br>
    <br>
