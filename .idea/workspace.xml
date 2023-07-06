@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="" />
+    <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankAccount/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankAccount/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankAccount/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankAccount/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/diegoauza/Documents/Code/Personal/LearningJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Person.Main">
+  <component name="RunManager" selected="Application.BankAccount.Main">
     <configuration name="BankAccount.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankAccount.Main" />
       <module name="LearningJava" />
@@ -114,9 +118,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankAccount.Main" />
         <item itemvalue="Application.Person.Main" />
         <item itemvalue="Application.SimpleCalculator.Main" />
-        <item itemvalue="Application.BankAccount.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ReadingInputChallenge" />
       </list>
