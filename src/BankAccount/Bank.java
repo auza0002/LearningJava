@@ -10,6 +10,8 @@ private String customerEmail;
 private String customerPhone;
 
 public Bank(){
+    this("56789", 2.50, "Defaul name", "default address",
+            "default phone");
     System.out.println("Empty constructor called");
 }
 public Bank( String number, double balance, String customerName, String customerEmail, String customerPhone){
@@ -19,10 +21,16 @@ public Bank( String number, double balance, String customerName, String customer
     this.customerName = customerName;
     this.customerEmail = customerEmail;
     this.customerPhone = customerPhone;
-
 }
 
-public void depositFound (double depositAmount){
+    public Bank(String customerName, String customerEmail, String customerPhone) {
+    this("99999", 100.55, customerName, customerEmail, customerPhone);
+        this.customerName = customerName;
+        this.customerEmail = customerEmail;
+        this.customerPhone = customerPhone;
+    }
+
+    public void depositFound (double depositAmount){
     balance += depositAmount;
     System.out.println(" Deposit of $" + depositAmount + " made. New balance is $" + balance);
 }
