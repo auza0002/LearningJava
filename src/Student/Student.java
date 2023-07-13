@@ -12,4 +12,46 @@ public class Student {
         this.dataOfBirth = dataOfBirth;
         this.classList = classList;
     }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", dataOfBirth='" + dataOfBirth + '\'' +
+                ", classList='" + classList + '\'' +
+                '}';
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getDataOfBirth() {
+        return dataOfBirth;
+    }
+
+    public void setDataOfBirth(String dataOfBirth) {
+        this.dataOfBirth = dataOfBirth;
+    }
+
+    public String getClassList() {
+        return classList;
+    }
+
+    public void setClassList(String classList) {
+        this.classList = classList;
+    }
 }
