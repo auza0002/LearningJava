@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodeWarChallenge/YesNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWarChallenge/BobBusProblems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/diegoauza/Documents/Code/Personal/LearningJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.YesNo">
+  <component name="RunManager" selected="Application.BobBusProblems">
     <configuration name="BankAccount.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankAccount.Main" />
       <module name="LearningJava" />
@@ -65,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Customer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Customer.Main" />
+    <configuration name="BobBusProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarChallenge.BobBusProblems" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Customer.*" />
+          <option name="PATTERN" value="CodeWarChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Person.Main" />
+    <configuration name="Customer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Customer.Main" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Person.*" />
+          <option name="PATTERN" value="Customer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BobBusProblems" />
         <item itemvalue="Application.YesNo" />
         <item itemvalue="Application.Student.Main" />
         <item itemvalue="Application.Customer.Main" />
         <item itemvalue="Application.BankAccount.Main" />
-        <item itemvalue="Application.Person.Main" />
       </list>
     </recent_temporary>
   </component>
