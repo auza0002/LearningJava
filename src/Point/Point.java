@@ -28,13 +28,11 @@ public class Point {
         this.y = y;
     }
     public double distance (){
-        // it needs to return the distance between the 2 points 0.0 as double
         int i = 0;
         double distance = Math.sqrt(((x - i) * (x - i)) + ((y - i ) * (y - i)));
         return distance;
     }
     public double distance (int x, int y){
-        // it needs to return the distance between Point and Point x, y as double
         double distance = 0;
         return distance;
     }
