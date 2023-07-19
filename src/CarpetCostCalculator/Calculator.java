@@ -1,8 +1,8 @@
 package CarpetCostCalculator;
 
 public class Calculator {
-    Floor floor;
-    Carpet carpet;
+    private Floor floor;
+   private  Carpet carpet;
      public double getTotalCost(){
         return floor.getArea() * carpet.getCost();
     }

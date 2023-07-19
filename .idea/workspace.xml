@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CarpetCostCalculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarpetCostCalculator/Carpet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarpetCostCalculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarpetCostCalculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarpetCostCalculator/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarpetCostCalculator/Carpet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CarpetCostCalculator/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarpetCostCalculator/Floor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarpetCostCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarpetCostCalculator/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

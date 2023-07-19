@@ -1,11 +1,9 @@
 package CarpetCostCalculator;
 
 public class Floor {
-    double width;
-    double length;
+     private double width;
+     private double length;
 
-    public Floor() {
-    }
 
     public void setWidth(double width) {
         this.width = width;

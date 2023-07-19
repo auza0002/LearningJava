@@ -1,7 +1,7 @@
 package CarpetCostCalculator;
 
 public class Carpet {
-    double cost;
+    private  double cost;
 
     public double getCost() {
         return cost;
