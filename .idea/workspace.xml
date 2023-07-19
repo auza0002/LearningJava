@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CarpetCostCalculator/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarpetCostCalculator/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point/Point.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +51,26 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/diegoauza/Documents/Code/Personal/LearningJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Point.Main">
+  <component name="RunManager" selected="Application.CarpetCostCalculator.Main">
     <configuration name="BobBusProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWarChallenge.BobBusProblems" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CodeWarChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarpetCostCalculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarpetCostCalculator.Main" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CarpetCostCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YesNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWarChallenge.YesNo" />
-      <module name="LearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodeWarChallenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarpetCostCalculator.Main" />
         <item itemvalue="Application.Point.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Student.Main" />
         <item itemvalue="Application.BobBusProblems" />
-        <item itemvalue="Application.YesNo" />
       </list>
     </recent_temporary>
   </component>
