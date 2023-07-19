@@ -100,6 +100,32 @@ Diego Luis Auza Trujillo
     6. Method named setAge with one parameter of type int, it needs to set the value of the age field. If the parameter<br> is less than 0 or greater than 100, it needs to set the age field value to 0.<br>
     7. Method named isTeen without any parameters, it needs to return true if the value of the age field is greater than<br> 12 and less than 20, otherwise, return false.<br>
     8. Method named getFullName without any parameters, it needs to return the full name of the person.<br>
+
+8. ### **Carpet Cost Calculator**<br>
+
+**Description:** <br>
+<br>
+    The Carpet Company has asked you to write an application that calculates the price of carpeting for rectangular rooms.
+    To calculate the price, you multiply the area of the floor (width times length) by the price per square meter of carpet. 
+    For example, the area of the floor that is 12 meters long and 10 meters wide is 120 square meters. To cover the floor
+    with a carpet that costs $8 per square meter would cost $960.
+<br>
+ 1. Write a class with the name Floor. The class needs two fields (instance variables) with name width and length of type double.<br>
+The class needs to have one constructor with parameters width and length of type double and it needs to initialize the fields.<br>
+In case the width parameter is less than 0 it needs to set the width field value to 0, in case the length parameter is less than 0 it needs to set the length field value to 0.<br>
+Write the following methods (instance methods):<br>
+* Method named getArea without any parameters, it needs to return the calculated area (width * length).
+2. Write a class with the name Carpet. The class needs one field (instance variable) with name cost of type double The class needs to have one constructor with parameter cost of type double and it needs to initialize the field.
+In case the cost parameter is less than 0 it needs to set the cost field value to 0.
+Write the following methods (instance methods): <br>
+* Method named getCost without any parameters, it needs to return the value of cost field<br>
+3. Write a class with the name Calculator. The class needs two fields (instance variables) with name floor of type Floor and carpet of type Carpet.
+The class needs to have one constructor with parameters floor of type Floor and carpet of type Carpet and it needs to initialize the fields.
+Write the following methods (instance methods):
+
+* Method named getTotalCost without any parameters, it needs to return the calculated total cost to cover the floor with a carpet.
+
+
   
 
       
