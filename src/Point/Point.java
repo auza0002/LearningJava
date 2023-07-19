@@ -27,14 +27,24 @@ public class Point {
     public void setY(int y){
         this.y = y;
     }
+
+
     public double distance (){
         int i = 0;
-        double distance = Math.sqrt(((x - i) * (x - i)) + ((y - i ) * (y - i)));
+        double distance = Math.sqrt(((x- i) * (x - i)) +  (( y - i) * ( y - i)));
         return distance;
     }
+
     public double distance (int x, int y){
-        double distance = 0;
+
+        double distance = Math.sqrt(((this.x- x  ) * (this.x - x )) +  (( this.y - y) * ( this.y - y)));
         return distance;
     }
+    public double distance(Point another) {
+        int xDiff = this.x - another.getX();
+        int yDiff = this.y - another.getY();
+        return Math.sqrt(xDiff * xDiff + yDiff * yDiff);
+    }
+
 
 }
