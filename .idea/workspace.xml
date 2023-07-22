@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComplexNumber/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComplexNumber/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComplexNumber/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComplexNumber/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +51,13 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/diegoauza/Documents/Code/Personal/LearningJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarpetCostCalculator.Main">
-    <configuration name="BobBusProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWarChallenge.BobBusProblems" />
+  <component name="RunManager" selected="Application.ComplexNumber.Main">
+    <configuration name="CarpetCostCalculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarpetCostCalculator.Main" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeWarChallenge.*" />
+          <option name="PATTERN" value="CarpetCostCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarpetCostCalculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarpetCostCalculator.Main" />
+    <configuration name="ComplexNumber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComplexNumber.Main" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CarpetCostCalculator.*" />
+          <option name="PATTERN" value="ComplexNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComplexNumber.Main" />
         <item itemvalue="Application.CarpetCostCalculator.Main" />
         <item itemvalue="Application.Point.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Student.Main" />
-        <item itemvalue="Application.BobBusProblems" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +169,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ComplexNumber/ComplexNumber.java</url>
+          <line>37</line>
+          <properties class="ComplexNumber.ComplexNumber" method="subtract">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/JavaChallenges/BarkingDog.java</url>
@@ -222,6 +233,26 @@
           <url>file://$PROJECT_DIR$/src/CarpetCostCalculator/Carpet.java</url>
           <line>12</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComplexNumber/ComplexNumber.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComplexNumber/ComplexNumber.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComplexNumber/ComplexNumber.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ComplexNumber/ComplexNumber.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
