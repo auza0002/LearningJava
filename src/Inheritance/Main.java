@@ -7,8 +7,11 @@ public class Main {
 
         Dog dog = new Dog();
         doAnimalStuff(dog, "Fast");
-        Dog newDog = new Dog("Diego", "Small", 75);
-                doAnimalStuff(newDog, "Slow");
+
+        Dog yorkey = new Dog("Yorkey", 15);
+        doAnimalStuff(yorkey, "fast");
+        Dog retriever =  new Dog("Labrador" , 65, "Floppy", "Swimmer");
+        doAnimalStuff(retriever, "super fast");
     }
     public static void doAnimalStuff(Animal animal, String speed){
         animal.makeNoise();
