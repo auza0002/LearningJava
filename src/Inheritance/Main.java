@@ -12,6 +12,9 @@ public class Main {
         doAnimalStuff(yorkey, "fast");
         Dog retriever =  new Dog("Labrador" , 65, "Floppy", "Swimmer");
         doAnimalStuff(retriever, "super fast");
+
+        Dog wolf = new Dog("wolf", 40);
+        doAnimalStuff(wolf, "slow");
     }
     public static void doAnimalStuff(Animal animal, String speed){
         animal.makeNoise();

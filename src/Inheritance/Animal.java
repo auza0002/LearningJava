@@ -2,7 +2,7 @@ package Inheritance;
 
 public class Animal {
     // Animal es the parent class and here you can find the all the base data that we are going to re-use later on.
-    private String type;
+    protected String type;
     private String size;
     private double weight;
     public Animal(){
