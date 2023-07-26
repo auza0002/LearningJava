@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AllAboutStrings/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +50,13 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/diegoauza/Documents/Code/Personal/LearningJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringFormatting.Main">
-    <configuration name="ComplexNumber.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComplexNumber.Main" />
+  <component name="RunManager" selected="Application.AllAboutStrings.Main">
+    <configuration name="AllAboutStrings.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllAboutStrings.Main" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComplexNumber.*" />
+          <option name="PATTERN" value="AllAboutStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AllAboutStrings.Main" />
         <item itemvalue="Application.StringFormatting.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TheObjectClass.Main" />
         <item itemvalue="Application.Inheritance.Main" />
-        <item itemvalue="Application.ComplexNumber.Main" />
       </list>
     </recent_temporary>
   </component>
