@@ -21,7 +21,7 @@ public class Main {
             System.out.println("Values match ignoring case ");
         }
     if(helloWorld.startsWith(("Hello"))){
-        System.out.println("\n String starts with Hello");
+        System.out.println("\n  String starts with Hello");
     }
     if(helloWorld.endsWith(("World"))){
         System.out.println("String ends with Hello");
