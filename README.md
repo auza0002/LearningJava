@@ -124,6 +124,7 @@ The class needs to have one constructor with parameters floor of type Floor and 
 Write the following methods (instance methods):
 
 * Method named getTotalCost without any parameters, it needs to return the calculated total cost to cover the floor with a carpet.
+* 
 
 
   
