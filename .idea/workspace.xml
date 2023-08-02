@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ef84f5-7452-4066-a812-468517bbbd99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SmartKitchen/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmartKitchen/SmartKitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composition/Wall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,20 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/diegoauza/Documents/Code/Personal/LearningJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SmartKitchen.Main">
+  <component name="RunManager" selected="Application.Composition.Main">
+    <configuration name="Composition.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composition.Main" />
+      <module name="LearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Composition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cylinder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cylinder.Main" />
       <module name="LearningJava" />
@@ -100,26 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AllAboutStrings.StringMethods" />
-      <module name="LearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AllAboutStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Composition.Main" />
         <item itemvalue="Application.SmartKitchen.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PoolArea.Main" />
         <item itemvalue="Application.Cylinder.Main" />
-        <item itemvalue="Application.StringMethods" />
       </list>
     </recent_temporary>
   </component>
